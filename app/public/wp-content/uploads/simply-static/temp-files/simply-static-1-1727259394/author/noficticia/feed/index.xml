@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>noficticia &#8211; NOficTÍCIAS</title>
+	<atom:link href="https://github.com/redbluefoxwebmaster/noficticias.git/author/noficticia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/redbluefoxwebmaster/noficticias.git/</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Sep 2024 01:57:51 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://github.com/redbluefoxwebmaster/noficticias.git/wp-content/uploads/2024/09/cropped-cropped-INSCREVA-SE-32x32.png</url>
+	<title>noficticia &#8211; NOficTÍCIAS</title>
+	<link>https://github.com/redbluefoxwebmaster/noficticias.git/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://github.com/redbluefoxwebmaster/noficticias.git/hello-world/</link>
+					<comments>https://github.com/redbluefoxwebmaster/noficticias.git/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[noficticia]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2024 01:52:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/redbluefoxwebmaster/noficticias.git/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/redbluefoxwebmaster/noficticias.git/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2222222222222</title>
+		<link>https://github.com/redbluefoxwebmaster/noficticias.git/2222222222222-2/</link>
+					<comments>https://github.com/redbluefoxwebmaster/noficticias.git/2222222222222-2/#respond</comments>
+		
+		<dc:creator><![CDATA[noficticia]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2024 01:57:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/redbluefoxwebmaster/noficticias.git/?p=8</guid>
+
+					<description><![CDATA[3333333333333333333333333333333333333333333333dfgxgfcg tdtydjtt]]></description>
+										<content:encoded><![CDATA[
+<p>3333333333333333333333333333333333333333333333dfgxgfcg tdtydjtt</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/redbluefoxwebmaster/noficticias.git/2222222222222-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1111111111</title>
+		<link>https://github.com/redbluefoxwebmaster/noficticias.git/1111111111-2/</link>
+					<comments>https://github.com/redbluefoxwebmaster/noficticias.git/1111111111-2/#respond</comments>
+		
+		<dc:creator><![CDATA[noficticia]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2024 01:56:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://github.com/redbluefoxwebmaster/noficticias.git/?p=5</guid>
+
+					<description><![CDATA[ytfvytfylughliuyhiuig bi buyhiu h8y biçuynhf drdew4yfg]]></description>
+										<content:encoded><![CDATA[
+<p>ytfvytfylughliuyhiuig bi buyhiu h8y biçuynhf drdew4yfg</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/redbluefoxwebmaster/noficticias.git/1111111111-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
